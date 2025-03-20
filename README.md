@@ -6,11 +6,12 @@
 - 🌱 Estudando C# ...
 
  <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=160 align="center" src="https://github-readme-stats.vercel.app/api?username=Uebester&bg_color=000000&title_color=993399&border_color=000000&icon_color=993399&show_icons=true" />
+  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=Uebester&bg_color=000000&title_color=993399&border_color=000000&icon_color=993399&show_icons=true" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=160 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Uebester&layout=compact&langs_count=8&card_width=320&bg_color=000000&title_color=993399&border_color=000000&show_icons=true" />
+  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Uebester&layout=compact&langs_count=8&card_width=320&bg_color=000000&title_color=993399&border_color=000000" />
 </a>
+
 
   
 <div style="display: inline_block"><br>
