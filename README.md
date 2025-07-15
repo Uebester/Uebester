@@ -1,9 +1,12 @@
-## Olá! eu sou o Uebester filho
+## Olá, eu sou o Uebester filho
+
+ Desenvolvedor em formação, focado em Back-end com .NET C#. Busco evoluir constantemente para me tornar um programador Full Stack e criar soluções eficientes.
+ ## Sobre mim
 
 
-
-- 🔭Estudante de Desenvolvimento de Sistemas...
-- 🌱 Estudando C# ...
+- 🔭Estudante de Desenvolvimento de Sistemas no SENAI...
+- 🌱 Estudando .NET, C#, SQL Server...
+## GitHub Stats
 
  <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=Uebester&bg_color=000000&title_color=993399&border_color=000000&icon_color=993399&show_icons=true" />
